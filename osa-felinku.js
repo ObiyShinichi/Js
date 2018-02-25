@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="3-ways-to-overcome-lazy-early-risers.html"}
-if(x=="2"){xxx="optimize-computer-performance.html"}
-if(x=="3"){xxx="design-graphic-with-freeware.html"}
-if(x=="4"){xxx="start-your-work-with-blogging.html"}a_to_ve[i].href="https://osa-felinku.blogspot.com/2018/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2018/02/3-ways-to-overcome-lazy-early-risers.html"}
+if(x=="2"){xxx="/2018/02/optimize-computer-performance.html"}
+if(x=="3"){xxx="/2018/02/design-graphic-with-freeware.html"}
+if(x=="4"){xxx="/2018/02/start-your-work-with-blogging.html"}a_to_ve[i].href="https://osa-felinku.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
